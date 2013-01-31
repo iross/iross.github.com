@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: python | My Octopress Blog]]></title>
+  <link href="http://iross.github.com/blog/categories/python/atom.xml" rel="self"/>
+  <link href="http://iross.github.com/"/>
+  <updated>2013-01-30T20:53:44-06:00</updated>
+  <id>http://iross.github.com/</id>
+  <author>
+    <name><![CDATA[Ian Ross]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[code snippet]]></title>
+    <link href="http://iross.github.com/blog/2013/01/30/code-snippet/"/>
+    <updated>2013-01-30T20:51:00-06:00</updated>
+    <id>http://iross.github.com/blog/2013/01/30/code-snippet</id>
+    <content type="html"><![CDATA[<p>```python dumbClass
+from ROOT import *
+import sys
+import getopt
+from RecoLuminosity.LumiDB import argparse
+from combTrees import *
+from CommonSelectors import *
+from Selector import *</p>
+
+<p>class Skimmer(object):
+    """Skimmer class. Accepts TTree, cuts, etc, and sorts through them, returning unique and arbitrated event sets"""
+    def <strong>init</strong>(self, tree, cuts, arbMode, vars, outTree, allVars=False):
+        super(Skimmer, self).<strong>init</strong>()
+        self.tree = tree
+        self.cuts = cuts
+        self.arbMode = arbMode
+        self.vars = vars
+        self.outTree = outTree
+        self.allVars = allVars
+        self.events = {}
+    def setEvents(self):
+        """Get event list"""
+        self.events=uniquify(self.tree,self.cuts,self.arbMode,self.vars,self.allVars)
+    def makeTree(self):
+        """Return TTree composed of events"""
+        return makeTree(self.events,self.outTree)
+    def clear(self):
+        """Clear out event dict"""
+        self.events={}</p>
+
+<h1>f=TFile(file,"update")</h1>
+
+<h1>t=f.Get("eleEleEleEleEventTree/eventTree")</h1>
+
+<h1>cuts["eeee"]=defineCuts(pt20_10.cuts(),z2ee.cuts(),z2RelPFIso.cuts(),"fourFour","z2Charge==0")</h1>
+
+<p>```</p>
+]]></content>
+  </entry>
+  
+</feed>

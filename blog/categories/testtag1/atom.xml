@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: testtag1 | My Octopress Blog]]></title>
+  <link href="http://iross.github.com/blog/categories/testtag1/atom.xml" rel="self"/>
+  <link href="http://iross.github.com/"/>
+  <updated>2013-01-30T20:53:44-06:00</updated>
+  <id>http://iross.github.com/</id>
+  <author>
+    <name><![CDATA[Ian Ross]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[testtitle]]></title>
+    <link href="http://iross.github.com/blog/2013/01/30/testtitle/"/>
+    <updated>2013-01-30T20:43:00-06:00</updated>
+    <id>http://iross.github.com/blog/2013/01/30/testtitle</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
