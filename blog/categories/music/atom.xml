@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: music | My Octopress Blog]]></title>
+  <link href="http://iross.github.com/blog/categories/music/atom.xml" rel="self"/>
+  <link href="http://iross.github.com/"/>
+  <updated>2013-01-30T20:32:29-06:00</updated>
+  <id>http://iross.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[TEST POST]]></title>
+    <link href="http://iross.github.com/blog/2012/12/02/test-post/"/>
+    <updated>2012-12-02T15:24:00-06:00</updated>
+    <id>http://iross.github.com/blog/2012/12/02/test-post</id>
+    <content type="html"><![CDATA[<h2>Another hot jam!</h2>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/OATi34PKNPw "></iframe></div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[soundcloud test]]></title>
+    <link href="http://iross.github.com/blog/2012/10/28/soundcloud-test/"/>
+    <updated>2012-10-28T16:47:00-05:00</updated>
+    <id>http://iross.github.com/blog/2012/10/28/soundcloud-test</id>
+    <content type="html"><![CDATA[<p><iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F62838238&amp;"></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[youtube test]]></title>
+    <link href="http://iross.github.com/blog/2012/10/26/youtube-test/"/>
+    <updated>2012-10-26T22:19:00-05:00</updated>
+    <id>http://iross.github.com/blog/2012/10/26/youtube-test</id>
+    <content type="html"><![CDATA[<h2>CHECK IT OUT</h2>
+
+<p>This vid is rad to the max
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/YbvrM6Nj2Ok "></iframe></div></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://iross.github.com/atom.xml" rel="self"/>
+  <link href="http://iross.github.com/"/>
+  <updated>2013-01-30T20:32:29-06:00</updated>
+  <id>http://iross.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Another Test]]></title>
+    <link href="http://iross.github.com/blog/2012/12/02/another-test/"/>
+    <updated>2012-12-02T15:56:00-06:00</updated>
+    <id>http://iross.github.com/blog/2012/12/02/another-test</id>
+    <content type="html"><![CDATA[<p><a href="http://www.reddit.com">test link, please ignore</a></p>
+
+<p><a href="http://www.fakeaddress.com">test to an unvisited site</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://iross.github.com/blog/2012/12/02/test/"/>
+    <updated>2012-12-02T15:49:00-06:00</updated>
+    <id>http://iross.github.com/blog/2012/12/02/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[TEST POST]]></title>
+    <link href="http://iross.github.com/blog/2012/12/02/test-post/"/>
+    <updated>2012-12-02T15:24:00-06:00</updated>
+    <id>http://iross.github.com/blog/2012/12/02/test-post</id>
+    <content type="html"><![CDATA[<h2>Another hot jam!</h2>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/OATi34PKNPw "></iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[soundcloud test]]></title>
+    <link href="http://iross.github.com/blog/2012/10/28/soundcloud-test/"/>
+    <updated>2012-10-28T16:47:00-05:00</updated>
+    <id>http://iross.github.com/blog/2012/10/28/soundcloud-test</id>
+    <content type="html"><![CDATA[<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F62838238&amp;"></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[youtube test]]></title>
+    <link href="http://iross.github.com/blog/2012/10/26/youtube-test/"/>
+    <updated>2012-10-26T22:19:00-05:00</updated>
+    <id>http://iross.github.com/blog/2012/10/26/youtube-test</id>
+    <content type="html"><![CDATA[<h2>CHECK IT OUT</h2>
+
+<p>This vid is rad to the max</p>
+
+<div class="embed-video-container"><iframe src="http://www.youtube.com/embed/YbvrM6Nj2Ok "></iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test post]]></title>
+    <link href="http://iross.github.com/blog/2012/10/26/test-post/"/>
+    <updated>2012-10-26T21:53:00-05:00</updated>
+    <id>http://iross.github.com/blog/2012/10/26/test-post</id>
+    <content type="html"><![CDATA[<h2>Whoa</h2>
+
+<blockquote><p>markdown.</p></blockquote>
+
+<p><em>how does this work?</em></p>
+]]></content>
+  </entry>
+  
+</feed>

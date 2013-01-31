@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: testestet | My Octopress Blog]]></title>
+  <link href="http://iross.github.com/blog/categories/testestet/atom.xml" rel="self"/>
+  <link href="http://iross.github.com/"/>
+  <updated>2013-01-30T20:32:29-06:00</updated>
+  <id>http://iross.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Another Test]]></title>
+    <link href="http://iross.github.com/blog/2012/12/02/another-test/"/>
+    <updated>2012-12-02T15:56:00-06:00</updated>
+    <id>http://iross.github.com/blog/2012/12/02/another-test</id>
+    <content type="html"><![CDATA[<p><a href="http://www.reddit.com">test link, please ignore</a></p>
+
+<p><a href="http://www.fakeaddress.com">test to an unvisited site</a></p>
+]]></content>
+  </entry>
+  
+</feed>
