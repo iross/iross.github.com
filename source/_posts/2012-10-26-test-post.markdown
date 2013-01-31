@@ -1,0 +1,13 @@
+---
+layout: post
+title: "test post"
+date: 2012-10-26 21:53
+comments: true
+categories: 
+---
+Whoa
+----
+
+>markdown.
+
+_how does this work?_
